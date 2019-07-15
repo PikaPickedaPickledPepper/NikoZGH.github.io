@@ -56,3 +56,8 @@ body {
     display: grid;
     
 }
+nav a:hover {
+  background-color: black;
+  color: white;
+  display: flex;
+}
